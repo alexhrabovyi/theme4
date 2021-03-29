@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(18, 17, 22);
+    color:rgb(255, 255, 255);
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 51px;
+    margin-top: 120px;
+}
+
+nav {
+    text-align: center;
+}
+
+#separator {
+    margin-bottom: 25px;
+}
+
+#facebook {
+    margin-right: 35px;
+}
+
+#tweeter {
+    margin-right: 36px;
+}
+
+#google {
+    margin-right: 25px;
+}
+
+nav p {
+    font-size: 20pt;
+    margin-bottom: 21px;
+    margin-top: 0px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 86px;
+    font-size: 15pt;
+}
+
+footer a {
+    color: rgb(25, 200, 250);
+    font-weight: 600;
+}
